@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/207946198?s=400&u=4be413f793cc97c6e4209865f0e6b5a5f4d85b6d&v=4" alt="Nyxen-XE Terminal Banner" width="100%">
+  <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-ae38-61f7-b51c-3870817349fa/raw?se=2025-04-17T01%3A12%3A36Z&sp=r&sv=2024-08-04&sr=b&scid=60642b7d-3237-52c3-b455-e953d2cfc2e9&skoid=f0c3f613-0f9b-4a8a-a29a-c1a910343ad7&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-16T21%3A37%3A54Z&ske=2025-04-17T21%3A37%3A54Z&sks=b&skv=2024-08-04&sig=%2BNOwdkWfleBGzvf0a%2BAso6Urub5vzIW3QYLJFT12oNU%3D" alt="Nyxen-XE Terminal Banner" width="100%" style="object-fit:cover;">
 </p>
 
 ```
