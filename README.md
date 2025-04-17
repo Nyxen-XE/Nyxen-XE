@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svgshare.com/i/yourBannerID.svg" alt="Nyxen-XE Terminal Banner" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/207946198?s=400&u=4be413f793cc97c6e4209865f0e6b5a5f4d85b6d&v=4" alt="Nyxen-XE Terminal Banner" width="100%">
 </p>
 
 ```
