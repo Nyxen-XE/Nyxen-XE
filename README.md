@@ -14,6 +14,10 @@
 ```
 
 ---
+![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square)
+![Built With](https://img.shields.io/badge/Built%20With-Python-blue?style=flat-square)
+![Threads](https://img.shields.io/badge/Multi-Threaded-orange?style=flat-square)
+
 
 ### 🧠 About Me
 
