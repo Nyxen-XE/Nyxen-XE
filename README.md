@@ -46,6 +46,7 @@
 | NexusLink v2 | Multi-user TCP Chat w/ threads         | ✅ Live     |
 | Jarvis-X     | Local message console + logging system | 🧪 Testing |
 | Skibidi BIOS | Custom bootloader w/ rock-paper trap   | ⚙️ R&D     |
+| LyricsFusion | Bot to scrape lyrics on Genius website| ✅ Live    |
 
 ---
 
